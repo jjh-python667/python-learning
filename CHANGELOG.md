@@ -5,11 +5,9 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This repo has no release version yet, so the entry below is dated instead of numbered.
 
-小节标题：Added 是新增，Changed 是修改。
-
 ## [Unreleased]
 
-## [2026-11-11]
+## 2026-11-11
 
 ### Added
 
