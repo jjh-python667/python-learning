@@ -6,7 +6,7 @@ Python learning notes
 
 我是人工智能专业的一年级学生，Python 还在入门。这个仓库只放我已经写好、并且能运行的练习。某个主题如果还没有对应的文件，就不写成已经完成。类仍在巩固，还没有学完。
 
-I am a first-year undergraduate in AI, and I am still a beginner in Python. This repo only includes exercises that are already written and can be run. A topic with no file yet is not marked as done. I am still consolidating classes.
+I am a first-year undergraduate in AI, and I am still a beginner in Python. This repo only includes exercises that are already written and can be run. A topic with no file yet is not marked as done. I am still practising classes, and I have not finished them yet.
 
 ## 仓库里有什么
 
@@ -47,13 +47,13 @@ python3 hello.py
 
 ## 还没有写进仓库的主题
 
-下面这些是原来说明里希望继续学的内容。类按目前的进度记为巩固中，尚未完成。这里都还没有对应的 `.py` 文件。
+下面是我希望继续学的内容。这里还没有对应的 `.py` 文件。
 
-Topics named in the old note. There is no exercise file for them yet. Classes are still being consolidated and are not finished:
+These are topics I want to keep learning. There is no `.py` file for them yet:
 
 - 变量、条件判断、循环、常用数据结构 (variables, conditions, loops, common data structures)
 - 函数 (functions)
-- 类：巩固中，尚未完成 (classes: still being consolidated, not finished)
+- 类 (classes)
 - 文件读写 (reading and writing files)
 - 读懂报错，并自己修改、验证代码 (read an error, then fix the code and check it)
 
