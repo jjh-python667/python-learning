@@ -1,2 +1,3 @@
+# 自动识别文本文件，并统一成 LF 换行。
 # Auto detect text files and perform LF normalization
 * text=auto
