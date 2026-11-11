@@ -15,7 +15,6 @@ What is actually in this repo:
 - `hello.py`：目前唯一的练习。The only exercise so far.
 - `README.md`：这份说明。
 - `CHANGELOG.md`：改动记录。
-- `LICENSE`：MIT 许可证。
 - `.gitignore`：不提交缓存、虚拟环境和密钥文件。
 - `.gitattributes`：让文本换行保持一致，避免换电脑后出现无意义的改动。
 

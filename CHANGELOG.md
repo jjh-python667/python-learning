@@ -11,7 +11,6 @@ This repo has no release version yet, so the entry below is dated instead of num
 
 ### Added
 
-- 新增 `LICENSE`（MIT）。仓库里原来没有许可证文件。
 - 新增本更新日志。
 - `.gitignore` 补充系统自动生成的文件（`.DS_Store`、`Thumbs.db`、`desktop.ini`），并在开头和密钥一节加上简短中文说明。原来的 Python 忽略规则保留。
 
