@@ -1,3 +1,6 @@
+# Python 学习仓库：下面这些文件不需要提交。
+# 例如 Python 运行后生成的缓存、虚拟环境，以及 .env 里的密钥。
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +131,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+# 密钥和虚拟环境不要提交。
 .env
 .venv
 env/
@@ -179,3 +183,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# 操作系统自动生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini

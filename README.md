@@ -1,29 +1,65 @@
 # Python 学习记录
 
-这是我的 Python 自学仓库，从基础语法开始，慢慢积累练习和笔记。
+Python learning notes
 
-## 目前有什么
+## 简介
 
-- `hello.py`：最初的 Python 练习。
-- 后续学到新的内容，再逐步补充；不把计划中的内容写成已经完成。
+我是人工智能专业的一年级学生，Python 还在入门。这个仓库只放我已经写好、并且能运行的练习。某个主题如果还没有对应的文件，就不写成已经完成。类仍在巩固，还没有学完。
 
-## 怎么运行
+I am a first-year undergraduate in AI, and I am still a beginner in Python. This repo only includes exercises that are already written and can be run. A topic with no file yet is not marked as done. I am still practising classes, and I have not finished them yet.
 
-安装 Python 3，在文件所在目录打开终端：
+## 仓库里有什么
+
+What is actually in this repo:
+
+- `hello.py`：目前唯一的练习。The only exercise so far.
+- `README.md`：这份说明。
+- `CHANGELOG.md`：改动记录。
+- `LICENSE`：MIT 许可证。
+- `.gitignore`：不提交缓存、虚拟环境和密钥文件。
+- `.gitattributes`：让文本换行保持一致，避免换电脑后出现无意义的改动。
+
+没有第三方包，也没有测试代码。No third-party packages and no tests.
+
+## 练习索引
+
+| 文件 | 主题 | 怎么运行 |
+| --- | --- | --- |
+| `hello.py` | 用 `print` 输出一行文字 | `python hello.py` |
+
+在本仓库目录打开终端：
 
 ```bash
 python hello.py
 ```
 
-## 我希望逐步学会
+终端应输出：
 
-- 变量、条件判断、循环和常用数据结构。
-- 函数、类和文件读写。
-- 读懂报错，并能自己修改、验证代码。
+```text
+hello github
+```
+
+如果终端提示找不到 `python`，改用下面这条。它运行的是同一个文件。
+
+```bash
+python3 hello.py
+```
+
+## 还没有写进仓库的主题
+
+下面是我希望继续学的内容。这里还没有对应的 `.py` 文件。
+
+These are topics I want to keep learning. There is no `.py` file for them yet:
+
+- 变量、条件判断、循环、常用数据结构 (variables, conditions, loops, common data structures)
+- 函数 (functions)
+- 类 (classes)
+- 文件读写 (reading and writing files)
+- 读懂报错，并自己修改、验证代码 (read an error, then fix the code and check it)
 
 ## 相关项目
 
 - [学习搭子 Agent](https://github.com/jjh-python667/personal-learning-agent)：结合资料库、工具调用和学习任务的实践项目。
 - [星球大战 mini](https://github.com/jjh-python667/star-wars-mini)：Pygame 入门练习。
 
-这是学习过程的记录，内容会随着练习逐步完善。
+作者：[jjh-python667](https://github.com/jjh-python667)
